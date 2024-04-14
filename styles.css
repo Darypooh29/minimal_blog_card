@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Sora", sans-serif;
+}
+
+body {
+  background-color: #FAFAF9;
+  font-size: 0.875rem;
+}
+
+.card-container {
+  margin: auto; 
+  margin-top: 164px;
+  background-color: #FFFFFF;
+  width: 368px;
+  border-radius: 1rem;
+  box-shadow: 0px 30px 100px 0px #1117290d;
+}
+
+.card-img {
+  width: 336px;
+  height: 152px;
+  margin: 16px 16px 0 16px;
+  border-radius: 1rem;
+}
+
+.title {
+  font-size: 1.125rem;
+  color: #20293A;
+  margin-top: 16px;
+  margin: 16px 16px 0 16px;
+}
+
+.subtitle {
+  color: #883AE1;
+  background-color: #E6D6FC;
+  font-weight: bold;
+  font-size: 0.75rem;
+  width: 80px;
+  text-align: center;
+  padding: 6px 16px;
+  margin: 16px 16px 0 16px;
+
+  border-radius: 1rem;
+}
+
+.description {
+  color: #6C727F;
+  line-height: 1.3rem;
+  padding: 6px 16px 20px 16px;
+}
+
+hr {
+  margin-top: 20px;
+  width: 100%;
+  border: 1px solid #E5EAF0;
+}
+
+.name {
+  font-size: 0.75rem;
+  color: #6C727F;
+  padding: 20px 16px;
+  border-top: 1px solid #E5EAF0;
+}
